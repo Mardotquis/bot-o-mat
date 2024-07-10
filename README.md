@@ -1,4 +1,6 @@
-Thank you for reviewing over my project!
+# BOT-O-MAT
+
+Thank you for reviewing over my project! This was originally an interview project for Red Ventures. Project is hosted at: https://botomat.netlify.app/
 
 I have chosen to do my project using React, a JavaScript library, because I thought it would be easier to read my code as well as practice manipulating the virtual DOM.
 
@@ -21,7 +23,7 @@ How to start my project:
 Have fun!
 
 
-# BOT-O-MAT
+## Directions
 Use any language to complete this challenge. The implementation is up to you: it can be a command-line application or have a graphical interface.
 
 Your application should collect a name and robot type from the types we list below. For each, it should create a Robot of the type the user chooses, e.g. Larry, Bipedal.
